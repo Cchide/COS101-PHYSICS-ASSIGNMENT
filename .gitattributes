@@ -1,2 +1,56 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+print()
+print()
+   ")
+
+
+def a(distance,time)
+    "speed"=distance/time
+    distance=int(input("20"))
+    time=int(input("5"))
+    print("speed")
+     # --- End of first code ---
+
+def b(force,distance):
+    "work"=force*distance
+    force=int(input("6"))
+    distance=int(input("36"))
+    print("work")
+    # --- End of second code ---
+
+def c(speed,time):
+    "distance"=speed*time
+    speed=int(input("30"))
+    time=int(input("3"))
+    out
+    print("distance")
+    # --- End of third code ---
+
+def d(mass,velocity):
+    "momentum"=mass*velocity
+    mass=int(input("15"))
+    velocity=int(input("3"))
+    print("momentum")    
+    # --- End of fourth code ---
+
+def e(displacement,time):
+    "velocity"=displacement/time
+    displacement=int(input("40"))
+    time=int(input("10"))
+    print("velocity")
+    # --- End of last equation ---
+
+    def main()
+     user_choice= input["Enter operation of your choice(a,b,c,d,e):"]
+     if user_choice== "a"
+        a()
+     elif user_choice== "b":
+        b()
+     elif user_choice== "c"
+        c()
+     elif user_choice== "d"
+        d()
+     elif user_choice== "e"
+        e()
+     else:
+         print("invalid choice")  
+
